@@ -1,0 +1,23 @@
+{
+  "name": "Unblocked Games Site",
+  "version": "1.8.8",
+  "description": "A unblocked Game Site for Playing Games while you are in a bad mood or Just bored at home. Also this game is for Work And school when you have a break.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "BestGames.html",
+    "HotGames.html",
+    "FunGames.html",
+    "Unblocked Games Site"
+  ],
+  "author": "Jonathan Trochez",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}
